@@ -48,7 +48,7 @@ A responsive registration form built with HTML and CSS, styled with a dark theme
 
 ### 🔜 Next Project
 
- - Survey Form (**Certification Project**) → [View Repository](https://github.com/DalaScript/survey-form)
+ - Survey Form *(Certification Project)* → [View Repository](https://github.com/DalaScript/survey-form)
 
 ---
 
