@@ -14,6 +14,8 @@ A responsive registration form built with HTML and CSS, styled with a dark theme
   - [📌 Features](#-features)
 - [🧠 My process](#-my-process)
   - [🛠️ Built with](#️-built-with)
+  - [🎓 What I learned](#-what-i-learned)
+  - [🔙 Previous Project](#-previous-project)
   - [🔜 Next Project](#-next-project)
 - [👤 Author](#-author)
   - [🌐 Connect with Me](#-connect-with-me)
@@ -25,7 +27,7 @@ A responsive registration form built with HTML and CSS, styled with a dark theme
 
 ### 📸 Screenshot
 
-![screenshot of webpage](./assets/screenshot.jpg)
+![screenshot of the project's webpage](./assets/screenshot.jpg)
 
 ### 🔗 Links
 
@@ -46,9 +48,23 @@ A responsive registration form built with HTML and CSS, styled with a dark theme
  - HTML5
  - CSS3
 
+### 🎓 What I Learned
+
+  > 🚀 For me, this project was more about **practice** and gaining additional **experience**,  
+  > rather than learning something entirely new.  
+  >  
+  > 👨‍💻 Since I’m not a beginner and already familiar with these technologies,  
+  > I approached it with confidence — and still, I truly **enjoyed working on it**.  
+  >  
+  > 🎯 Overall, I consider this a very **valuable and enjoyable experience**.
+
+### 🔙 Previous Project
+
+ - Colored Markers | *[Project 3/20]* → [View Repository](https://github.com/DalaScript/colored-markers)
+
 ### 🔜 Next Project
 
- - Survey Form *(Certification Project)* → [View Repository](https://github.com/DalaScript/survey-form)
+ - Survey Form *(Certification Project)* | *[Project 5/20]* → [View Repository](https://github.com/DalaScript/survey-form)
 
 ---
 
